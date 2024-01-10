@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/model/Game.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/view/MainWindow.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/res/ResourceLoader.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/res/levels.txt</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/persistence/Database.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/model/GameLevel.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/view/HighScoreWindow.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/view/Board.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/view/HighScoreTableModel.java</file>
+            <file>file:/C:/Users/Ren/Desktop/ELTE/5th_semester/Prog_tech/Labyrinth/src/persistence/HighScore.java</file>
+        </group>
+    </open-files>
+</project-private>
